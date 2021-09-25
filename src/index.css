@@ -1,0 +1,39 @@
+:root {
+  @apply light;
+}
+.dark {
+  --color-bg-primary: #f0f2f5;
+  --color-bg-secondary: #283141;
+  --color-text-primary: rgba(17, 17, 17, 1);
+  --color-text-secondary: rgba(17, 17, 17, 0.6);
+  --color-text-accent: rgba(17, 17, 17, 0.6);
+}
+.light {
+  --color-bg-primary: #f0f2f5;
+  --color-bg-secondary: #edf2f7;
+  --color-text-primary: #58A7C9;
+  --color-text-secondary: rgb(17, 129, 178);
+  --color-text-accent: rgb(17, 129, 178);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;800&display=swap");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/screens";
+
+svg {
+  vertical-align: baseline;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
