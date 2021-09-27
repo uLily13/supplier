@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1075f23.chunk.css",
+    "main.js": "/static/js/main.55caaa98.chunk.js",
+    "main.js.map": "/static/js/main.55caaa98.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51d0065a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51d0065a.js.map",
+    "static/js/2.8cf4e9a1.chunk.js": "/static/js/2.8cf4e9a1.chunk.js",
+    "static/js/2.8cf4e9a1.chunk.js.map": "/static/js/2.8cf4e9a1.chunk.js.map",
+    "static/js/3.e1490780.chunk.js": "/static/js/3.e1490780.chunk.js",
+    "static/js/3.e1490780.chunk.js.map": "/static/js/3.e1490780.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1075f23.chunk.css.map": "/static/css/main.e1075f23.chunk.css.map",
+    "static/js/2.8cf4e9a1.chunk.js.LICENSE.txt": "/static/js/2.8cf4e9a1.chunk.js.LICENSE.txt",
+    "static/media/coverFlower.17b0227e.svg": "/static/media/coverFlower.17b0227e.svg",
+    "static/media/coverWoman.dce24768.svg": "/static/media/coverWoman.dce24768.svg",
+    "static/media/logo.a62621b0.svg": "/static/media/logo.a62621b0.svg",
+    "static/media/mail.4b679a05.svg": "/static/media/mail.4b679a05.svg",
+    "static/media/menuCollapseIcon.5c7419c5.svg": "/static/media/menuCollapseIcon.5c7419c5.svg",
+    "static/media/menuCollapsedIcon.4985cb50.svg": "/static/media/menuCollapsedIcon.4985cb50.svg",
+    "static/media/promotionsIcon.6be061dc.svg": "/static/media/promotionsIcon.6be061dc.svg",
+    "static/media/salesIcon.188e2322.svg": "/static/media/salesIcon.188e2322.svg",
+    "static/media/salonsIcon.2bb16d2a.svg": "/static/media/salonsIcon.2bb16d2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51d0065a.js",
+    "static/js/2.8cf4e9a1.chunk.js",
+    "static/css/main.e1075f23.chunk.css",
+    "static/js/main.55caaa98.chunk.js"
+  ]
+}
